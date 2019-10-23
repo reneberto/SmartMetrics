@@ -75,9 +75,9 @@
 			</section>
 			
 		<!-- Two -->
-			<section id="two" class="wrapper style1">
+			<section id="two" class="wrapper style2">
 				<div class="container">
-					<div class="container">
+					<div class="row uniform">
 						<div class="4u 6u(2) 12u$(3)">
 							<section class="feature fa-briefcase">
 								<h3>Natoque phasellus</h3>
